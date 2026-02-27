@@ -149,11 +149,11 @@ export const ResumePDF = () => (
                 </Text>
             </View>
 
-            {/* MANDATORY PROPOSAL SECTION */}
-            <View style={styles.proposalBox}>
-                <Text style={styles.proposalText}>Propuesta Económica: COP $6'000.000 mensuales / Modalidad Híbrida (Medellín)</Text>
-            </View>
 
         </Page>
     </Document>
+);
+
+        </Page >
+    </Document >
 );
