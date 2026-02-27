@@ -9,7 +9,7 @@
             "IA Agents"
         ],
         "link": "#",
-        "image": "/projects/agentes_ia.png"
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
             "Real-time"
         ],
         "link": "#",
-        "image": "/projects/leadquality.png"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "3",
@@ -33,7 +33,7 @@
             "NLP"
         ],
         "link": "#",
-        "image": "/projects/brainvoices.png"
+        "image": "https://images.unsplash.com/photo-1620712948343-0008ece8458e?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "4",
@@ -45,7 +45,7 @@
             "Gestión"
         ],
         "link": "#",
-        "image": "/projects/econova.png"
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "5",
@@ -57,7 +57,7 @@
             "AutoCAD"
         ],
         "link": "#",
-        "image": "/projects/proyectos_arquitectonicos.png"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "6",
@@ -69,7 +69,7 @@
             "AppSheet"
         ],
         "link": "#",
-        "image": "/projects/mis_huevos_org.png"
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "7",
@@ -81,7 +81,7 @@
             "Arquitectura"
         ],
         "link": "#",
-        "image": "/projects/brainware.png"
+        "image": "https://images.unsplash.com/photo-1620712948343-0008ece8458e?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "8",
@@ -93,7 +93,7 @@
             "Plugins"
         ],
         "link": "#",
-        "image": "/projects/custom_plugins.png"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000"
     },
     {
         "id": "9",
@@ -105,6 +105,6 @@
             "Integraciones"
         ],
         "link": "#",
-        "image": "/projects/brainvoices.png"
+        "image": "https://images.unsplash.com/photo-1620712948343-0008ece8458e?auto=format&fit=crop&q=80&w=2000"
     }
 ]
