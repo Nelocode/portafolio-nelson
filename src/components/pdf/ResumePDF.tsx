@@ -75,19 +75,6 @@ const styles = StyleSheet.create({
         fontSize: 10,
         color: "#8A2BE2", // Neon Purple
     },
-    proposalBox: {
-        marginTop: 30,
-        padding: 15,
-        backgroundColor: "#1A1A24",
-        borderLeftWidth: 4,
-        borderLeftColor: "#00FFFF",
-        borderRadius: 4,
-    },
-    proposalText: {
-        fontSize: 14,
-        fontWeight: "bold",
-        color: "#FFF",
-    },
 });
 
 export const ResumePDF = () => (
