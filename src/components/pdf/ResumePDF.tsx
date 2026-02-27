@@ -153,7 +153,3 @@ export const ResumePDF = () => (
         </Page>
     </Document>
 );
-
-        </Page >
-    </Document >
-);
