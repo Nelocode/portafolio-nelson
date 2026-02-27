@@ -105,9 +105,9 @@ export function Portfolio() {
                                             ))}
                                         </div>
 
-                                        <a href={project.link} target="_blank" rel="noopener noreferrer" className="mt-auto">
+                                        <a href={`https://wa.me/573207116676?text=${encodeURIComponent(`Hola, quisiera solicitar una demo del proyecto: ${project.title}`)}`} target="_blank" rel="noopener noreferrer" className="mt-auto">
                                             <Button variant="outline" size="sm" className="w-full border-cyan-400/30 text-cyan-400 hover:bg-cyan-400/10 group-hover:border-cyan-400/80">
-                                                Inspeccionar Sistema <ExternalLink className="ml-2 w-3 h-3" />
+                                                Solicitar Demo <ExternalLink className="ml-2 w-3 h-3" />
                                             </Button>
                                         </a>
                                     </div>

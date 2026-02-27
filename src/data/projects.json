@@ -1,38 +1,98 @@
 [
     {
         "id": "1",
-        "title": "Ecosistema Econova",
-        "description": "Arquitectura de datos y CRM integrado con automatización avanzada en tiempo real.",
+        "title": "Agentes de IA (Productividad 4.0)",
+        "description": "Implementación de agentes de inteligencia artificial multiarea para la Oficina de Transformación Digital de Bogotá, facilitando el acceso tecnológico empresarial.",
         "tags": [
-            "NocoDB",
-            "n8n",
-            "Arquitectura"
+            "Automatización",
+            "Transformación Digital",
+            "IA Agents"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/agentes_ia.png"
     },
     {
         "id": "2",
-        "title": "Corporate Second Brain",
-        "description": "Agente conversacional alimentado por LLMs integrado en el flujo de trabajo corporativo para análisis financiero.",
+        "title": "Leadquality",
+        "description": "Sistema de calificación de prospectos en tiempo real para optimizar la priorización y gestión comercial.",
         "tags": [
-            "LLMs",
-            "AI Agents",
-            "Python"
+            "Leads",
+            "Analítica",
+            "Real-time"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1620712948343-0008ece8458e?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/leadquality.png"
     },
     {
         "id": "3",
-        "title": "Dynamic Quoting Engine",
-        "description": "Cotizador paramétrico escalable con generación de documentos PDF en tiempo real para equipos de ventas.",
+        "title": "Brainvoices",
+        "description": "Cotizador inteligente que extrae ítems mediante lenguaje natural y permite el análisis de documentos para generar cotizaciones automáticas.",
         "tags": [
-            "Next.js",
-            "PDF Rendering",
-            "UI/UX"
+            "IA Generativa",
+            "Automatización",
+            "NLP"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/brainvoices.png"
+    },
+    {
+        "id": "4",
+        "title": "Econova",
+        "description": "Juego de gestión de recursos y exploración de cobre enfocado en el desarrollo comunitario y energético.",
+        "tags": [
+            "Videojuego",
+            "Simulación",
+            "Gestión"
+        ],
+        "link": "#",
+        "image": "/projects/econova.png"
+    },
+    {
+        "id": "5",
+        "title": "Plataforma de Proyectos Arquitectónicos",
+        "description": "Herramienta de evaluación de proyectos que integra AutoCAD, web scraping y análisis de datos para estudios arquitectónicos.",
+        "tags": [
+            "Arquitectura",
+            "Analítica",
+            "AutoCAD"
+        ],
+        "link": "#",
+        "image": "/projects/proyectos_arquitectonicos.png"
+    },
+    {
+        "id": "6",
+        "title": "Mis Huevos Org.",
+        "description": "Aplicación de control de inventario y logística desarrollada en AppSheet para la optimización de despachos.",
+        "tags": [
+            "Digitalización",
+            "Logística",
+            "AppSheet"
+        ],
+        "link": "#",
+        "image": "/projects/mis_huevos_org.png"
+    },
+    {
+        "id": "7",
+        "title": "Brainware",
+        "description": "Liderazgo técnico en el diseño de plataformas web de alta complejidad y el entorno interactivo de Econova.",
+        "tags": [
+            "Web Dev",
+            "UI/UX",
+            "Arquitectura"
+        ],
+        "link": "#",
+        "image": "/projects/brainware.png"
+    },
+    {
+        "id": "8",
+        "title": "Plugins Personalizados",
+        "description": "Creación de plugins para WordPress y otros ambientes que permiten automatizar procesos o conectar flujos directamente (ej. bot de creación de blogs).",
+        "tags": [
+            "Automation",
+            "WordPress",
+            "Plugins"
+        ],
+        "link": "#",
+        "image": "/projects/custom_plugins.png"
     }
 ]
