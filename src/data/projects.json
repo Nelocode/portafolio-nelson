@@ -94,5 +94,17 @@
         ],
         "link": "#",
         "image": "/projects/custom_plugins.png"
+    },
+    {
+        "id": "9",
+        "title": "Bot de Gestión de Salud Estética",
+        "description": "Automatización integral para clínicas de cirugía estética en WhatsApp. Gestiona citas multicanal, historial médico, cobros, recepción de fotografías y sincronización con CRMs y calendarios en tiempo real.",
+        "tags": [
+            "Salud Tech",
+            "WhatsApp Business",
+            "Integraciones"
+        ],
+        "link": "#",
+        "image": "/projects/leadquality.png"
     }
 ]
