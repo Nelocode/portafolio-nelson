@@ -10,7 +10,7 @@ export function Expertise() {
         {
             title: "Arquitectura & Proyectos",
             description:
-                "Diseño de arquitecturas de datos y CRMs (NocoDB), integrados con automatización avanzada (n8n). Dirección del proyecto 'Econova' y desarrollo de cotizadores paramétricos con generación de documentos.",
+                "Diseño de arquitecturas de datos y CRMs (NocoDB), integrados con automatización avanzada (n8n). Desarrollo de cotizadores paramétricos con generación de documentos.",
             icon: Network,
             color: "text-cyan-400",
             tags: ["NocoDB", "n8n", "Arquitectura", "Gestión de Proyectos"],

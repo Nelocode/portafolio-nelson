@@ -139,7 +139,7 @@ export const ResumePDF = () => (
             <View style={styles.section}>
                 <Text style={styles.sectionTitle}>Hitos de Experiencia</Text>
                 <Text style={styles.text}>
-                    • Dirección del proyecto "Econova" y desarrollo de cotizadores paramétricos con generación de documentos automatizados.
+                    • Desarrollo de cotizadores paramétricos con generación de documentos automatizados.
                 </Text>
                 <Text style={styles.text}>
                     • Diseño de arquitecturas de datos complejas utilizando CRMs modernos (NocoDB) e integrados nativamente con n8n.

@@ -37,18 +37,6 @@
     },
     {
         "id": "4",
-        "title": "Econova",
-        "description": "Juego de gestión de recursos y exploración de cobre enfocado en el desarrollo comunitario y energético.",
-        "tags": [
-            "Videojuego",
-            "Simulación",
-            "Gestión"
-        ],
-        "link": "#",
-        "image": "/projects/econova.png"
-    },
-    {
-        "id": "5",
         "title": "Plataforma de Proyectos Arquitectónicos",
         "description": "Herramienta de evaluación de proyectos que integra AutoCAD, web scraping y análisis de datos para estudios arquitectónicos.",
         "tags": [
@@ -60,7 +48,7 @@
         "image": "/projects/proyectos_arquitectonicos.jpg"
     },
     {
-        "id": "6",
+        "id": "5",
         "title": "Mis Huevos Org.",
         "description": "Aplicación de control de inventario y logística desarrollada en AppSheet para la optimización de despachos.",
         "tags": [
@@ -72,7 +60,7 @@
         "image": "/projects/mishuevos.png"
     },
     {
-        "id": "7",
+        "id": "6",
         "title": "Brainware",
         "description": "Liderazgo técnico en el diseño de plataformas web de alta complejidad y el entorno interactivo de Econova.",
         "tags": [
@@ -84,7 +72,7 @@
         "image": "/projects/brainware.png"
     },
     {
-        "id": "8",
+        "id": "7",
         "title": "Plugins Personalizados",
         "description": "Creación de plugins para WordPress y otros ambientes que permiten automatizar procesos o conectar flujos directamente (ej. bot de creación de blogs).",
         "tags": [
@@ -96,7 +84,7 @@
         "image": "/projects/wordpress.jpg"
     },
     {
-        "id": "9",
+        "id": "8",
         "title": "Bot de Gestión de Salud Estética",
         "description": "Automatización integral para clínicas de cirugía estética en WhatsApp. Gestiona citas multicanal, historial médico, cobros, recepción de fotografías y sincronización con CRMs y calendarios en tiempo real.",
         "tags": [
