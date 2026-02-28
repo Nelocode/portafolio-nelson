@@ -9,7 +9,7 @@
             "IA Agents"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/agentes_ia.png"
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
             "Real-time"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/leadquality.png"
     },
     {
         "id": "3",
@@ -33,7 +33,7 @@
             "NLP"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1620712948343-0008ece8458e?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/brainvoices.jpg"
     },
     {
         "id": "4",
@@ -45,7 +45,7 @@
             "Gestión"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/econova.png"
     },
     {
         "id": "5",
@@ -57,7 +57,7 @@
             "AutoCAD"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/proyectos_arquitectonicos.jpg"
     },
     {
         "id": "6",
@@ -69,7 +69,7 @@
             "AppSheet"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/mishuevos.png"
     },
     {
         "id": "7",
@@ -81,7 +81,7 @@
             "Arquitectura"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1620712948343-0008ece8458e?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/brainware.png"
     },
     {
         "id": "8",
@@ -93,7 +93,7 @@
             "Plugins"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/wordpress.jpg"
     },
     {
         "id": "9",
@@ -105,6 +105,6 @@
             "Integraciones"
         ],
         "link": "#",
-        "image": "https://images.unsplash.com/photo-1620712948343-0008ece8458e?auto=format&fit=crop&q=80&w=2000"
+        "image": "/projects/esthetic_line.png"
     }
 ]
